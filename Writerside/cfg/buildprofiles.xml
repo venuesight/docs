@@ -8,7 +8,7 @@
     <build-profile instance="v">
         <variables>
             <noindex-content>true</noindex-content>
-            <header-logo>logo-dark.png</header-logo>
+            <header-logo>logo-light.png</header-logo>
 
         </variables>
     </build-profile>
