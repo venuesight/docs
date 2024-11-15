@@ -4,9 +4,12 @@
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
     <variables></variables>
+
     <build-profile instance="v">
         <variables>
             <noindex-content>true</noindex-content>
+            <header-logo>logo-dark.png</header-logo>
+
         </variables>
     </build-profile>
 
